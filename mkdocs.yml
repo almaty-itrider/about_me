@@ -9,7 +9,13 @@ plugins:
   - i18n:
       default_language: en
       languages:
-        - en: English
-        - ru: Russian
-        - kz: Kazakh
+        en: 
+          name: English
+          locale: en_US
+        ru: 
+          name: Russian
+          locale: ru_RU
+        kk: 
+          name: Kazakh
+          locale: kk_KZ
       docs_structure: folder
