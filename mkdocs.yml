@@ -5,6 +5,7 @@ theme:
 site_author: Abylay Kuvatov
 copyright: Abylay Kuvatov, itrider, 2024
 plugins:
+  - search
   - i18n:
       docs_structure: folder
       languages:
