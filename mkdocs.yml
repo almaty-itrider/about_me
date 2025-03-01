@@ -4,3 +4,12 @@ theme:
   name: material
 site_author: Abylai Kuvatov
 copyright: Abylai Kuvatov, itrider, 2024
+plugins:
+  - search
+  - i18n:
+      default_language: en
+      languages:
+        - en: English
+        - ru: Russian
+        - kz: Kazakh
+      docs_structure: folder
