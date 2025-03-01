@@ -7,15 +7,15 @@ copyright: Abylai Kuvatov, itrider, 2024
 plugins:
   - search
   - i18n:
-      default_language: en
-      languages:
-        en: 
-          name: English
-          locale: en_US
-        ru: 
-          name: Russian
-          locale: ru_RU
-        kk: 
-          name: Kazakh
-          locale: kk_KZ
       docs_structure: folder
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: ru
+          name: Russian
+          build: true
+        - locale: kk
+          name: Kazakh
+          build: true
