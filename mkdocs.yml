@@ -16,6 +16,3 @@ plugins:
         - locale: ru
           name: Russian
           build: true
-        - locale: kk
-          name: Kazakh
-          build: true
