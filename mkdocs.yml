@@ -1,11 +1,10 @@
-site_name: Abylai's Site
+site_name: Abylay's Site
 site_url: https://almaty-itrider.github.io/about_me/
 theme:
   name: material
-site_author: Abylai Kuvatov
-copyright: Abylai Kuvatov, itrider, 2024
+site_author: Abylay Kuvatov
+copyright: Abylay Kuvatov, itrider, 2024
 plugins:
-  - search
   - i18n:
       docs_structure: folder
       languages:
