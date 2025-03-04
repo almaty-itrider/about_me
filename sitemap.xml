@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://almaty-itrider.github.io/about_me/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://almaty-itrider.github.io/about_me/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://almaty-itrider.github.io/about_me/ru/"/>
+    </url>
+    <url>
+        <loc>https://almaty-itrider.github.io/about_me/linux/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://almaty-itrider.github.io/about_me/linux/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://almaty-itrider.github.io/about_me/ru/linux/"/>
+    </url>
+    <url>
+        <loc>https://almaty-itrider.github.io/about_me/ru/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://almaty-itrider.github.io/about_me/ru/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://almaty-itrider.github.io/about_me/"/>
+    </url>
+    <url>
+        <loc>https://almaty-itrider.github.io/about_me/ru/linux/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://almaty-itrider.github.io/about_me/ru/linux/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://almaty-itrider.github.io/about_me/linux/"/>
+    </url>
+</urlset>
